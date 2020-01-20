@@ -118,6 +118,7 @@ public class PrincipalExamen {
 				while(rsConsulta.next()) {
 					int id = rsConsulta.getInt(1);
 					//me falta seguir por aqui
+					
 				}
 				System.out.println("Cantidad " +suma);
 			}
